@@ -62,10 +62,6 @@
 
 <br/>  
 
-
-### :fire: My Stats :
-        
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SsSaDdD&theme=dark&locale=ru&card_width=600&card_height=225" alt="GitHub Streak" /></a>
     
 
 
