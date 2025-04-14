@@ -10,13 +10,6 @@
   
 
 <br/>  
-
-<div align="center">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=SsSaDdD&theme=tokyonight&hide_border=true" /><br />
-    <img src="https://github-readme-stats.vercel.app/api?username=SsSaDdD&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
-</div>
-   
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
