@@ -1,39 +1,48 @@
-# Hello World
+<h1 align="center">Hey 👋What's Up?</h1>
 
-Привет! Меня зовут Саша, и я бэкенд-разработчик в процессе становления
+###
 
----
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cpp logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="60" alt="kotlin logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="60" alt="phpmyadmin logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sql" height="60" alt="sql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
+</div>
 
-## ⚙️ Что я знаю:
+###
 
-| 🧩 Язык | 📚 Навыки |
-|--------|----------|
-| **C# / ASP.NET Core** | 🔹 JWT авторизация<br>🔹 Работа с PostgreSQL<br>🔹 Создание API<br>🔹 ООП
-| **Python** | 🔹 Телеграм-боты<br>🔹 Работа с API<br>
-| **SQL (PostgreSQL, SQLite)** | 🔹 Написание запросов<br>🔹 Работа с БД из C# |
-| **JavaScript / TypeScript** | 🔹 React + TypeScript фронт<br>🔹 Работа с формами и отправкой на backend |
-| **HTML / CSS** | 🔹 Простые страницы<br>🔹 Верстка форм регистрации и логина |
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=SsSaDdD&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=SsSaDdD&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
----
+###
 
-## 🛠 Мой стек — это бэкенд-разработка на C#
-
-- ASP.NET Core (Web API)
-- PostgreSQL / SQLite
-- JWT токены
-- Многопоточность
-- ООП
-- Docker
-- Telegram Bots (для души)
-
----
-
-## 📬 Как со мной связаться:
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/s_s_a_d_d)  
-
----
-
-## 💡 Цель:
-> Стать топовым бэкенд-разработчиком и делать крутые проекты, которые реально работают 🔥
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SsSaDdD/SsSaDdD/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SsSaDdD/SsSaDdD/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SsSaDdD/SsSaDdD/output/pacman-contribution-graph.svg">
+</picture>
