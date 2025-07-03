@@ -15,9 +15,12 @@
 ###
 
 <div align="center">
-  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SsSaDdD&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SsSaDdD&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 </div>
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SsSaDdD&theme=tokyonight&hide_border=true" height="195px" />
-  <img src="https://github-readme-stats.vercel.app/api?username=SsSaDdD&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" height="195px" />
+
+<br />
+
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img width="47%" src="https://nirzak-streak-stats.vercel.app/?user=SsSaDdD&theme=tokyonight&hide_border=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=SsSaDdD&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
 </div>
