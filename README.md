@@ -15,9 +15,9 @@
 ###
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SsSaDdD&theme=tokyonight&hide_border=true" /><br />
-  <img src="https://github-readme-stats.vercel.app/api?username=SsSaDdD&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
   <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SsSaDdD&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 </div>
-
-###
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=SsSaDdD&theme=tokyonight&hide_border=true" height="195px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SsSaDdD&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" height="195px" />
+</div>
