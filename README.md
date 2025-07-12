@@ -23,7 +23,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/SsSaDdD/SsSaDdD/blob/output/github-contribution-grid-snake.svg" />
+  <img src="github-user-contribution.svg" />
 </div>
 
 <div align="center">
