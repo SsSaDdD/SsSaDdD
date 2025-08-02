@@ -1,7 +1,8 @@
 <div align="center">
-  <img width="780px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDdwNDIya2hqbHducno4bzU5OHhhMWxrMW43Y3k5eTN5a3lodTl5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7uDtQm2jKdS0VGLg46/giphy.gif" />
-</div>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono+&size=28&pause=1000&color=AF00F7&background=599F2C00&width=290&lines=Hi%2C+I'm+Ssadd_ist)](https://git.io/typing-svg)
+
+</div>
 <br>
 
 <div align="center">
