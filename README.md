@@ -3,7 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono+&size=28&pause=1000&color=AF00F7&background=599F2C00&width=290&lines=Hi%2C+I'm+Ssadd_ist)](https://git.io/typing-svg)
 
 </div>
-<br>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs,cpp,c,rust,java,py,js,ts" height="60" />
