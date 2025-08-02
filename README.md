@@ -1,17 +1,18 @@
 <div align="center">
+  <img width="1200px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDdwNDIya2hqbHducno4bzU5OHhhMWxrMW43Y3k5eTN5a3lodTl5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7uDtQm2jKdS0VGLg46/giphy.gif" />
+</div>
+
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono+&size=28&pause=1000&color=AF00F7&background=599F2C00&width=290&lines=Hi%2C+I'm+Ssadd_ist)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SsSaDdD&style=flat-square&color=blue" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/SsSaDdD?label=Follow&style=flat-square&logo=github" />
-</div>
-
-<div align="center">
   <img src="https://skillicons.dev/icons?i=cs,cpp,c,rust,java,js,ts,py" height="60" />
 </div>
+
+<br>
 
 <div align="center">
   <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SsSaDdD&theme=tokyonight&hide_border=true&layout=compact" />
@@ -21,10 +22,16 @@
   <img width="49.5%" src="https://nirzak-streak-stats.vercel.app/?user=SsSaDdD&theme=tokyonight&hide_border=true" />
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=SsSaDdD&theme=tokyonight&hide_border=true" />
 </div>
-
+<br>
 <div align="center">
-  <img src="github-user-contribution.svg" />
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SsSaDdD&theme=tokyonight" />
 </div>
+<br>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SsSaDdD&theme=tokyonight" alt="Profile views" />
+</div>
+
+<br>
 
 <div align="center">
   <h1>📫 Contact Me</h1>
