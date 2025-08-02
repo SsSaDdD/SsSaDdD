@@ -20,7 +20,7 @@
 </div>
 <br>
 <div align="center">
-<img align="center" width="110%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SsSaDdD&theme=tokyonight" />
+<img align="center" width="105%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SsSaDdD&theme=tokyonight" />
 </div>
 <br>
 <div align="center">
