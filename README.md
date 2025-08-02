@@ -20,11 +20,11 @@
 </div>
 <br>
 <div align="center">
-<img align="center" width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SsSaDdD&theme=tokyonight" />
+<img align="center" width="94%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SsSaDdD&theme=tokyonight" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SsSaDdD&theme=tokyonight" alt="Profile views" />
+  <img width="94%" src="https://github-profile-trophy.vercel.app/?username=SsSaDdD&theme=tokyonight" alt="Profile views" />
 </div>
 
 <br>
