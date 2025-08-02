@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,c,rust,java,js,ts,py" height="60" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,c,rust,java,py,js,ts" height="60" />
 </div>
 
 <br>
