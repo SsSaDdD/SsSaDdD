@@ -5,11 +5,7 @@
 ## My Programming Languages
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" alt="C++"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" alt="C#"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" alt="C"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" width="50" alt="Rust"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=cpp,cs,c,rust,python" />
 </p>
 
 ---
