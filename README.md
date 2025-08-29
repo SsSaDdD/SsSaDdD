@@ -21,7 +21,7 @@
 ## Development Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,nginx,mongodb,cmake,linux,mysql,postgres,redis" height="60" />
+<img src="https://skillicons.dev/icons?i=docker,git,postman,nginx,mongodb,cmake,linux,mysql,postgres,redis" height="60" />
 </p>
 
 ---
