@@ -13,7 +13,7 @@
 ## My Programming Languages Hobby
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,go,java,php,elixir,clojure" />
+  <img src="https://skillicons.dev/icons?i=js,ts,go,java,php" />
 </p>
 
 ---
