@@ -32,6 +32,7 @@
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
     <img src="https://img.shields.io/badge/Pascal-0096D8?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/GoLang-1E90FF?style=for-the-badge&logo=go&logoColor=white" />
   </p>
   <p align="center">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
